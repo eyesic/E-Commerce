@@ -1,14 +1,11 @@
 # E-Commerce
+
 Design an E-commerce site end to end
 
-# Setup
+## Setup
 
-## Initalize Node.js project
-`npm init -y`
+### First-Time Setup
 
-## Install React and React DOM
-`npm install react react-dom`
+To set up the project for the first time and install all dependencies, simply run the provided setup script:
 
-## Create React Application
-`npx create-react-app my-ecommerce-site` 
-`cd my-ecommerce-site`
+`./scripts/setup-ecommerce.sh`
